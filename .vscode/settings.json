@@ -1,0 +1,12 @@
+{
+
+    
+        "cucumberautocomplete.steps": [
+            "./automation/implementation/test.js"
+        ],
+        "cucumberautocomplete.syncfeatures": "./automation/feature/test.feature",
+        "cucumberautocomplete.strictGherkinCompletion": true,
+        "cucumberautocomplete.strictGherkinValidation": true,
+        "cucumberautocomplete.smartSnippets": true,
+        "cucumberautocomplete.stepsInvariants": true,
+}
