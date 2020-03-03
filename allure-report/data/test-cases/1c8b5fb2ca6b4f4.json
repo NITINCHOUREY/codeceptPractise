@@ -1,0 +1,101 @@
+{
+  "uid" : "1c8b5fb2ca6b4f4",
+  "name" : "runing this",
+  "fullName" : "create something.runing this",
+  "historyId" : "f40391fa787577d6a920a52eb081af3f",
+  "time" : {
+    "start" : 1583260723917,
+    "stop" : 1583260727773,
+    "duration" : 3856
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given print something here ",
+      "time" : {
+        "start" : 1583260723923,
+        "stop" : 1583260727773,
+        "duration" : 3850
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "I am on page \"https://www.npmjs.com/\"",
+        "time" : {
+          "start" : 1583260723923,
+          "stop" : 1583260727313,
+          "duration" : 3390
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "I save screenshot \"npmPage.png\"",
+        "time" : {
+          "start" : 1583260727313,
+          "stop" : 1583260727773,
+          "duration" : 460
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "create something"
+  }, {
+    "name" : "testClass",
+    "value" : "create something"
+  }, {
+    "name" : "testMethod",
+    "value" : "runing this"
+  }, {
+    "name" : "package",
+    "value" : "create something"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1c8b5fb2ca6b4f4.json",
+  "parameterValues" : [ ]
+}

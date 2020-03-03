@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1583260727841' stop='1583260729672'>
+    <name>learningCase:</name>
+    <title>learningCase:</title>
+    <test-cases>
+        <test-case start='1583260727842' status='passed' stop='1583260729610'>
+            <name>test something</name>
+            <title>test something</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1583260727842' status='passed' stop='1583260729610'>
+                    <name>I am on page "https://codecept.io/webdriver/#what-is-selenium-webdriver"</name>
+                    <title>I am on page "https://codecept.io/webdriver/#what-is-selenium-webdriver"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

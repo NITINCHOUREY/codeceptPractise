@@ -1,0 +1,39 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "create something",
+    "children" : [ {
+      "name" : "runing this",
+      "uid" : "1c8b5fb2ca6b4f4",
+      "parentUid" : "16e1c29da7c3f5d614f67ae3998ce827",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583260723917,
+        "stop" : 1583260727773,
+        "duration" : 3856
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "16e1c29da7c3f5d614f67ae3998ce827"
+  }, {
+    "name" : "learningCase:",
+    "children" : [ {
+      "name" : "test something",
+      "uid" : "4aadae057eb62a84",
+      "parentUid" : "37c928692853efbe6dc027bb77d9e8aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583260727842,
+        "stop" : 1583260729610,
+        "duration" : 1768
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "37c928692853efbe6dc027bb77d9e8aa"
+  } ]
+}

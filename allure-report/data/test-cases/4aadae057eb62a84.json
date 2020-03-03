@@ -1,0 +1,71 @@
+{
+  "uid" : "4aadae057eb62a84",
+  "name" : "test something",
+  "fullName" : "learningCase:.test something",
+  "historyId" : "fdf29506dc0aa0b155916625eb408936",
+  "time" : {
+    "start" : 1583260727842,
+    "stop" : 1583260729610,
+    "duration" : 1768
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I am on page \"https://codecept.io/webdriver/#what-is-selenium-webdriver\"",
+      "time" : {
+        "start" : 1583260727842,
+        "stop" : 1583260729610,
+        "duration" : 1768
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "learningCase:"
+  }, {
+    "name" : "testClass",
+    "value" : "learningCase:"
+  }, {
+    "name" : "testMethod",
+    "value" : "test something"
+  }, {
+    "name" : "package",
+    "value" : "learningCase:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4aadae057eb62a84.json",
+  "parameterValues" : [ ]
+}

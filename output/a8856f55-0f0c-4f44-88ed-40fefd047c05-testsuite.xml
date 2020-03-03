@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1583260711286' stop='1583260727832'>
+    <name>create something</name>
+    <title>create something</title>
+    <test-cases>
+        <test-case start='1583260723917' status='passed' stop='1583260727773'>
+            <name>runing this</name>
+            <title>runing this</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1583260723923' status='passed' stop='1583260727773'>
+                    <name>Given print something here </name>
+                    <title>Given print something here </title>
+                    <attachments/>
+                    <steps>
+                        <step start='1583260723923' status='passed' stop='1583260727313'>
+                            <name>I am on page "https://www.npmjs.com/"</name>
+                            <title>I am on page "https://www.npmjs.com/"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1583260727313' status='passed' stop='1583260727773'>
+                            <name>I save screenshot "npmPage.png"</name>
+                            <title>I save screenshot "npmPage.png"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

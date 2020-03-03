@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "create something",
+    "children" : [ {
+      "name" : "runing this",
+      "uid" : "1c8b5fb2ca6b4f4",
+      "parentUid" : "62d46d3f2db935e7a1d70a0265d36a87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583260723917,
+        "stop" : 1583260727773,
+        "duration" : 3856
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "62d46d3f2db935e7a1d70a0265d36a87"
+  }, {
+    "name" : "learningCase:",
+    "children" : [ {
+      "name" : "test something",
+      "uid" : "4aadae057eb62a84",
+      "parentUid" : "b357bfd1b1b9323d4f61b0666fafda05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583260727842,
+        "stop" : 1583260729610,
+        "duration" : 1768
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b357bfd1b1b9323d4f61b0666fafda05"
+  } ]
+}
