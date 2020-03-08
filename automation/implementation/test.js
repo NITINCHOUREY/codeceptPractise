@@ -13,3 +13,9 @@ Given('print something heres',async function(){
         console.log("+++++++++++++++++++Hi nitin i am printing this+++++++++++++++");
         
     });
+    Given('print something heress',async function(){
+        I.amOnPage("https://www.npmjs.com/");
+        I.saveScreenshot("npmPage.png");
+            console.log("+++++++++++++++++++Hi nitin i am printing this+++++++++++++++");
+            
+        });
