@@ -28,6 +28,14 @@ exports.config = {
   },
   bootstrap: null,
   mocha: {},
+multiple:
+{
+  parallel:
+  {
+    chunks:2,
+  }
+},
+
   name: 'vsLearning',
   plugins: {
     retryFailedStep: {
